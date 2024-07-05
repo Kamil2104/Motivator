@@ -1,2 +1,2 @@
-# motivator
+# Motivator
 React application - motivator
